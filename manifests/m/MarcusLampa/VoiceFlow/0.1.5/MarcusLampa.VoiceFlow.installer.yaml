@@ -1,0 +1,10 @@
+PackageIdentifier: MarcusLampa.VoiceFlow
+PackageVersion: 0.1.5
+InstallerType: inno
+Scope: user
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/MarcusLampa/VoiceFlow/releases/download/v0.1.5/VoiceFlow-0.1.5-setup.exe
+    InstallerSha256: 45B7DF5685EA1E2379ED22E4B2DD53E4504A46D3265869CEEE7FF66F56EE680B
+ManifestType: installer
+ManifestVersion: 1.6.0
